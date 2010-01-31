@@ -2,6 +2,8 @@
 
 Store data in an element's class attribute; access jQuery data with `:data` selector.
 
+You can find this plugin on the [jQuery plugin site](http://plugins.jquery.com/project/Classnotes)!
+
 ## About
 
 When writing JavaScript, sometimes you need to store data inside an element.
@@ -36,7 +38,7 @@ This would return any element with a data key of "foo" and a value of "bar".
 
 James Padolsey wrote code that was the basis for the `:data` selector in this plugin.  
 
-*  http://james.padolsey.com/javascript/extending-jquerys-selector-capabilities/
+*  [http://james.padolsey.com/javascript/extending-jquerys-selector-capabilities/](http://james.padolsey.com/javascript/extending-jquerys-selector-capabilities/)
 
 ## License
 
@@ -44,5 +46,5 @@ Copyright (c) 2010 Andrew Smith.
 
 Dual licensed under the MIT and GPL licenses:
 
-*  http://www.opensource.org/licenses/mit-license.php
-*  http://www.gnu.org/licenses/gpl.html
+*  [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
+*  [http://www.gnu.org/licenses/gpl.html](http://www.gnu.org/licenses/gpl.html)
